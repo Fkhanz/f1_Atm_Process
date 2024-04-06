@@ -53,4 +53,4 @@ else {
     console.log("incorrect pin number !!!");
 }
 
-console.log("THE END");
+console.log("!!*THE END*!!")

@@ -37,4 +37,4 @@ if (pinAnswer.pin === myPin) {
 else {
     console.log("incorrect pin number !!!");
 }
-console.log("THE END");
+console.log("!!*THE END*!!");
